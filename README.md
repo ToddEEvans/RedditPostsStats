@@ -1,4 +1,4 @@
-# Welcome to the Jack Henry Reddit Post Statistics App
+# Welcome to the Reddit Post Statistics App
 
 This app is a simple Reddit client that allows you to view posts from a subreddit (like "Blazor" or any other) and see some basic statistics about the posts. It simulates a real-world scenario where posts are being entered in. The app starts somewhere in the middle of the subreddit's history, updates until the beginning is reached, and then polls the site for new posts. This enables you to observe the changing statistics as posts are updated, along with detailed information about each post.
 
