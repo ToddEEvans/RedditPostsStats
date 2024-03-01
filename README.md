@@ -16,4 +16,4 @@ Currently, Reddit is not supplying the 3 rate limit headers as they may have cha
 
 ## Feedback
 
-I hope you enjoy this app and look forward to hearing from you soon. Go team Jack Henry!
+I hope you enjoy this app and look forward to hearing from you soon.
